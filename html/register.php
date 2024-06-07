@@ -129,7 +129,7 @@
       </div>
       <div class="form-group text-center">
         <button type="submit" class="btn btn-primary">Registrasi</button>
-        <button type="reset" class="btn btn-danger" onclick="window.location.href='/'">Batalkan</button>
+        <button type="reset" class="btn btn-danger" onclick="window.location.href='index.php'">Batalkan</button>
       </div>
     </form>
     <footer class="text-center mt-4">
